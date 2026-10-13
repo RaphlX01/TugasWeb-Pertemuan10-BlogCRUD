@@ -77,24 +77,6 @@ text
 http://127.0.0.1:8001/posts
 text
 
-## Struktur Folder
-app/
-├── Http/Controllers/PostController.php
-├── Models/Post.php
-└── View/Components/
-├── Alert.php
-└── Card.php
-resources/views/
-├── layouts/app.blade.php
-├── components/
-│ ├── alert.blade.php
-│ └── card.blade.php
-└── posts/
-├── index.blade.php
-├── create.blade.php
-├── edit.blade.php
-└── show.blade.php
-text
 
 ## Repository
 TugasWeb-P10-BlogCRUD
